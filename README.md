@@ -4,4 +4,4 @@
 <h3 align="left">Connect with me:</h3>
 - ⚡ CodeForces [CodeForces](https://codeforces.com/profile/Terror_Error)
 <br>
-- ⚡ CodeChef [https://www.codechef.com/users/terr0r_err0r](https://www.codechef.com/users/terr0r_err0r)
+- ⚡ CodeChef [Codechef](https://www.codechef.com/users/terr0r_err0r)
