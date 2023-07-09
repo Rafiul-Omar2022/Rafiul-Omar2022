@@ -1,8 +1,8 @@
 <h1 align="center">I am A programmer and open-source contributor.</h1>
-<h3 align="center">I love contributing to the programing community to make other life easier.</h3>
+<h3 align="center">I love contributing to the programming community to make other life easier.</h3>
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/rafiulomar/">Linkedin</a> </h3>
-<h3 align="left">Check out this, <a href="https://www.linkedin.com/in/rafiulomar/">My Website</a> </h3>
+<h3 align="left">Check out this, <a href="https://rafiulomar.me/">My Website</a> </h3>
 
 <p align="left">
 </p>
