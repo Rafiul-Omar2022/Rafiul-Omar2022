@@ -86,3 +86,7 @@
 <p align="left">Hey, I would like to offer myself as a developer in your team.<br><br><br>Email: rafiulomar2022@gmail.com</p>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Rafiul-Omar2022/Rafiul-Omar2022/output/snake.svg" alt="Snake animation" />
+
+###
