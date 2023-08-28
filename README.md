@@ -66,10 +66,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiul-Omar2022&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=My Stats 😎" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafiul-Omar2022&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=My Stats 😎" height="170" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Rafiul-Omar2022&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
@@ -79,7 +77,7 @@
 
 ###
 
-<img align="left" height="207" src="https://media.giphy.com/media/JmJMzlXOiI0dq/giphy.gif"  />
+<img align="left" height="221" src="https://media.giphy.com/media/JmJMzlXOiI0dq/giphy.gif"  />
 
 ###
 
