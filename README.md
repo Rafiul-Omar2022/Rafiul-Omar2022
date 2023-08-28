@@ -20,10 +20,18 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rafiul-Omar2022.Rafiul-Omar2022&left_text=Visitors"  />
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=RafiulOmar)
+![Badge](https://cp-logo.vercel.app/codechef/terr0r_err0r?logo=true)
+![Badge](https://cp-logo.vercel.app/atcoder/RafiulOmar?logo=true)
 
 ###
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rafiul-Omar2022.Rafiul-Omar2022&left_text=Visitors"  />
+
+###
+
 
 <br clear="both">
 
@@ -85,3 +93,4 @@
 <p align="left">Hey, I would like to offer myself as a developer in your team.<br><br>Website: https://rafiulomar.me<br><br>Email: rafiulomar2022@gmail.com</p>
 
 ###
+
