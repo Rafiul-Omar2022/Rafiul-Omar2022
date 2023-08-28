@@ -67,8 +67,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiul-Omar2022&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=My Stats 😎" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafiul-Omar2022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="119" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafiul-Omar2022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="125" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rafiul-Omar2022&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="125" alt="streak graph"  />
 </div>
 
 ###
@@ -82,11 +82,5 @@
 ###
 
 <p align="left">Hey, I would like to offer myself as a developer in your team.<br><br><br>Email: rafiulomar2022@gmail.com</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rafiul-Omar2022/Rafiul-Omar2022/output/snake.svg" alt="Snake animation" />
 
 ###
