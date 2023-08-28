@@ -90,7 +90,7 @@
 
 ###
 
-<p align="left">Hey, I would like to offer myself as a developer in your team.<br><br>Website: https://rafiulomar.me<br><br>Email: rafiulomar2022@gmail.com</p>
+<p align="left">Hey, I would like to offer myself as a developer in your team.<br><br>Visit website: https://rafiulomar.me<br><br>Competitive Programming profiles:<br><br>*CodeForces: <a href="https://codeforces.com/profile/RafiulOmar">RafiulOmar</a><br>*CodeChef: <a href="https://www.codechef.com/users/terr0r_err0r">terr0r_err0r</a><br>*AtCoder: <a href="https://atcoder.jp/users/RafiulOmar">RafiulOmar</a></p>
 
 ###
 
