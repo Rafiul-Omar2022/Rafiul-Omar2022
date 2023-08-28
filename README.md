@@ -26,12 +26,6 @@
 
 ###
 
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rafiul-Omar2022.Rafiul-Omar2022&left_text=Visitors"  />
-
-###
-
 
 <br clear="both">
 
@@ -75,10 +69,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafiul-Omar2022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Rafiul-Omar2022&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="125" alt="streak graph"  />
-</div>
 
 ###
 
