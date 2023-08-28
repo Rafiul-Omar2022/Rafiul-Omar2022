@@ -78,7 +78,6 @@
 ###
 
 <img align="left" height="221" src="https://media.giphy.com/media/JmJMzlXOiI0dq/giphy.gif"  />
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
