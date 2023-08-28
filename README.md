@@ -21,6 +21,7 @@
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rafiul-Omar2022.Rafiul-Omar2022&left_text=Visitors"  />
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=RafiulOmar)
 
 ###
 
