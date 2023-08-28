@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Programmer and Open-source contributor. I also work as a Web-developer.</p>
+<p align="left">I am a Programmer and Open-source contributor. I am also working as a Web-developer.</p>
 
 ###
 
