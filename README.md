@@ -1,4 +1,4 @@
-<img align="right" height="174" src="https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/329799855_465812985621855_6489796389659803728_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF7g5FiSGN80qSyxytuV4dOK1Gw82dRuKYrUbDzZ1G4pojaQ7PSkndGID9sd5UVT4HyjWC6xhrvii7sjXThycQK&_nc_ohc=cvmmbpWZSc0AX9AjbyV&_nc_ht=scontent.fdac148-1.fna&oh=00_AfBoshdFWItZ3S6T9V7NY4JFUGT8K9s8ORAAstL_0SuVcg&oe=64F0A262"  />
+<img align="right" height="174" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"  />
 
 ###
 
@@ -81,6 +81,6 @@
 
 ###
 
-<p align="left">Hey, I would like to offer myself as a developer in your team.<br><br><br>Email: rafiulomar2022@gmail.com</p>
+<p align="left">Hey, I would like to offer myself as a developer in your team.<br><br>Website: https://rafiulomar.me<br><br>Email: rafiulomar2022@gmail.com</p>
 
 ###
