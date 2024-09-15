@@ -19,11 +19,11 @@
 </div>
 
 ###
-
+<!---
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=RafiulOmar)
 ![Badge](https://cp-logo.vercel.app/codechef/terr0r_err0r?logo=true)
 ![Badge](https://cp-logo.vercel.app/atcoder/RafiulOmar?logo=true)
-
+--->
 ###
 
 
@@ -80,7 +80,10 @@
 
 ###
 
-<p align="left">Hey, I would like to offer myself as a developer in your team.<br><br>Visit website: https://rafiulomar.xyz<br><br>Competitive Programming profiles:<br><br>*CodeForces: <a href="https://codeforces.com/profile/RafiulOmar">RafiulOmar</a><br>*CodeChef: <a href="https://www.codechef.com/users/terr0r_err0r">terr0r_err0r</a><br>*AtCoder: <a href="https://atcoder.jp/users/RafiulOmar">RafiulOmar</a></p>
+<p align="left">Hey, I would like to offer myself as a developer in your team.<br><br>Visit website: https://rafiulomar.xyz<br><br>
+  <!---
+  Competitive Programming profiles:<br><br>*CodeForces: <a href="https://codeforces.com/profile/RafiulOmar">RafiulOmar</a><br>*CodeChef: <a href="https://www.codechef.com/users/terr0r_err0r">terr0r_err0r</a><br>*AtCoder: <a href="https://atcoder.jp/users/RafiulOmar">RafiulOmar</a></p>
+  --->
 
 ###
 
